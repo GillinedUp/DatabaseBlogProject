@@ -1,0 +1,11 @@
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\CodeFirstDemo.exe.config
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\CodeFirstDemo.exe
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\CodeFirstDemo.pdb
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\EntityFramework.dll
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\EntityFramework.SqlServer.dll
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\EntityFramework.xml
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Release\EntityFramework.SqlServer.xml
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Release\CodeFirstDemo.csproj.CoreCompileInputs.cache
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Release\CodeFirstDemo.exe
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Release\CodeFirstDemo.pdb
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Release\CodeFirstDemo.csprojResolveAssemblyReference.cache

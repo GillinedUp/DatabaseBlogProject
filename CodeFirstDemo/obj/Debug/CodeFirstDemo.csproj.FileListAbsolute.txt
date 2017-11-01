@@ -1,0 +1,16 @@
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.InitialCreate.resources
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.Cache
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.AddUrl.resources
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.AddUser.resources
+D:\projects\c#\bazy2\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.AddBlogContext.resources
